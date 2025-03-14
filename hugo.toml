@@ -1,0 +1,4 @@
+baseURL = "https://maurice-xx.github.io/"
+languageCode = "zh-cn"
+title = "Maurice的博客"
+theme = "ananke"

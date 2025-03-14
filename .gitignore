@@ -1,0 +1,10 @@
+# Hugo生成的文件
+public/
+resources/
+
+# 临时文件
+*.swp
+.DS_Store
+
+# 其他可能的环境文件
+.env
